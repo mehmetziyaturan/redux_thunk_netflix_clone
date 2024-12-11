@@ -1,5 +1,5 @@
 # Redux Thunk Netflix Clone
-
+Netflix clone project, listing types of movies, creating a watchlist, detail page, cast list.
 
 # Libraries
 
@@ -21,3 +21,4 @@
 - SLIDER: https://splidejs.com/guides/getting-started/
 
 # Preview
+
